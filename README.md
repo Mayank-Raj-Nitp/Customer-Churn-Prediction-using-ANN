@@ -31,6 +31,6 @@ To run this project, you need Python and the necessary libraries (TensorFlow / K
 
 Ensure you have a modern version of Python installed.
 
-###📊 Results
+📊 Results
 The model outputs the test accuracy, providing a concrete measure of its performance in predicting customer churn based on the prepared features. The inclusion of Dropout layers helps demonstrate techniques for building more robust production models.
 
